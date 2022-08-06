@@ -1,4 +1,4 @@
-import React from "react";
+/*import React from "react";
 import {
   Accordion,
   AccordionItem,
@@ -66,3 +66,4 @@ const Forecast = ({ data }) => {
 };
 
 export default Forecast;
+*/

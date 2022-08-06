@@ -1,4 +1,4 @@
-import React from "react";
+/*import React from "react";
 import "./current-weather.css";
 
 const CurrentWeather = ({ data }) => {
@@ -46,3 +46,4 @@ const CurrentWeather = ({ data }) => {
 };
 
 export default CurrentWeather;
+*/
